@@ -32,3 +32,17 @@ wails init -n myproject -t react-ts
 ```
 
 ### add vite
+
+
+### memo
+
+#### install
+```
+npm install --save-dev eslint    
+npm install --save-dev lint-staged  
+npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion
+```
+
+#### create file
+.prettierrc
+changelog.config.js
